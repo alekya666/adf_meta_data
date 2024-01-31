@@ -1,0 +1,9 @@
+{
+	"name": "ADFhubgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1d3c526-7dfc-40f5-8540-3f2e3aa604a7",
+		"tenantId": "e77c227d-bd68-4f3f-acbe-fb07bd273b6e"
+	}
+}
